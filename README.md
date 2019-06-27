@@ -21,8 +21,7 @@
   - Center the box on the page
 
 ## Now let's style the `<ul>`
-  - Make the `<ul>` element similar to this:
-    ![ul](pic.png)
+  - Make the `<ul>` element similar to image below
   - Here are the properties you will need! If you are not sure how to use any of them don't hesitate "`__property__name___` CSS" (For example: "border CSS")
       - `border`
       - `color`
@@ -31,5 +30,5 @@
       - `border-radius`
       - `list-style`
 
-
+     ![ul](pic.png)
 
