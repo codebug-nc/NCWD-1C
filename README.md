@@ -1,11 +1,11 @@
 # Intro to CSS
 
 ##### Let's add some styles to the paragraph `<p>` tag. You'll need to add a new block to your CSS file with the `p` selector!
-    ```
+ 
       p {
 
       }
-    ```
+ 
   - Change the `color` to one of your favorite colors! *Hint* instead of using a named color you could use a [hex color](https://www.google.com/search?q=hex+color+picker&oq=hex+colo&aqs=chrome.0.0l2j69i57j0l2j69i60.1591j0j4&sourceid=chrome&ie=UTF-8). For Example:
       ```
       p {
