@@ -1,6 +1,6 @@
 # Intro to CSS
 
-##### Let's add some styles to the paragraph `<p>` tag. You'll need to add a new block to your CSS file with the `p` selector!
+## Let's add some styles to the paragraph `<p>` tag. You'll need to add a new block to your CSS file with the `p` selector!
  
       p {
 
@@ -20,9 +20,9 @@
   - Add more space between the words and border line (*Hint* we did this for the `<h1>`)
   - Center the box on the page
 
-##### Now let's style the `<ul>`
+## Now let's style the `<ul>`
   - Make the `<ul>` element similar to this:
-    ![ul](pic.png)
+    ![ul](pic.png=280x)
   - Here are the properties you will need! If you are not sure how to use any of them don't hesitate "`__property__name___` CSS" (For example: "border CSS")
       - `border`
       - `color`
