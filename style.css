@@ -1,0 +1,35 @@
+h1 {
+	color: black;
+	font-size: 60pt;
+	background-color: yellow;
+	width: 800px;
+	padding: 50px;
+	text-align: center;
+	margin: 0 auto;
+	border: 30px groove blue;
+
+
+
+
+
+
+
+}
+body {
+	background-color: red;
+	
+
+}
+p{ 
+	width: 200px;
+	background-color: blue;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 50px ; 
+	padding:0px;
+	font-size: 20pt;
+	border: 15px solid yellow;
+	border-radius: 25px;
+
+
+ }
