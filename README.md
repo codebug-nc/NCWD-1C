@@ -31,5 +31,5 @@
       - `border-radius`
       - `list-style`
 
-     ![ul](pic.png)
+     ![pic](pic.png)
 
