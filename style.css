@@ -21,15 +21,31 @@ body {
 
 }
 p{ 
-	width: 200px;
+	width: 300px;
 	background-color: blue;
 	text-align: center;
 	margin: 0 auto;
 	margin-top: 50px ; 
 	padding:0px;
-	font-size: 20pt;
+	font-size: 30pt;
 	border: 15px solid yellow;
-	border-radius: 25px;
 
 
  }
+ul{
+	margin: 0 auto;
+	margin-top: 50px;
+	font-size: 15pt;
+	border: 15px solid green;
+	border-radius: 25px;
+	text-align: center;
+	width: 240px;
+	list-style: none;
+	background-color: yellow;
+
+
+}
+
+
+
+
