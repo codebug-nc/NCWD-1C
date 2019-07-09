@@ -1,0 +1,26 @@
+h1 {
+	color: white;
+	font-size: 60pt;
+	background-color: black;
+	width: 999px;
+	padding: 25px;
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+#q {
+	color: white;
+	font-size: 30pt;
+	text-align: center;
+	background-color: black;
+}
+body {
+	background-color: black;
+}
+
+p {
+	font-size: 15pt;
+	color: white;
+	text-align: center;
+}
