@@ -1,0 +1,28 @@
+	h1 {
+		color:blue;
+		font-size: 60pt;
+		background-color: yellow;
+		width: 800px;
+		padding: 50px;
+		text-align: center;
+		margin: 0 auto;
+		border: 15px dashed purple;
+	}
+
+	p { color:#665807; 
+		font-size:40pt;
+		background-color: blue ;
+		border: 5px dashed red;
+		width: 400px;
+		text-align: center;
+		margin: 0 auto;
+	 }
+	 ul { margin:0 auto ;
+	 	text-align:center;
+	 	border: 15px solid blue ;
+	 	border-radius: 25px;
+	 	list-style: square;
+	 	background-color: red;
+
+
+	  }
